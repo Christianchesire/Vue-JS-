@@ -4,8 +4,8 @@ new Vue({
             value: ''
         },
         methods: {
-        	alertMe: function(){
-        		alert('Alert!')
-        	}
+            alertMe: function(){
+                alert('Alert!')
+            }
         }
     });
